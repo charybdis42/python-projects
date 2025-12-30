@@ -1,0 +1,50 @@
+{
+    "name": "none",
+    "woolworthscatalink": "https://www.woolworths.com.au/shop/catalogue/view#view=list&saleId=62706&areaName=VIC%20Specialty",
+    "woolieslastupdated": "17/12/2025 success",
+    "coleslastupdated": "17/12/2025 success",
+    "userlists": {
+        "example": [
+            "bix",
+            "bread",
+            "eggs",
+            "milk",
+            "milo",
+            "muesli",
+            "weet"
+        ],
+        "joel": [
+            "cream",
+            "fish",
+            "ice"
+        ],
+        "vege chick pea stew": [
+            "capsicum",
+            "carrot",
+            "chick",
+            "garlic",
+            "onion",
+            "peas",
+            "potatoe",
+            "spinach",
+            "stock",
+            "sweet",
+            "tomato"
+        ],
+        "cake": [
+            "chocolate",
+            "eggs",
+            "flour",
+            "milk"
+        ],
+        "curry": [
+            "beans",
+            "curry",
+            "rice"
+        ],
+        "eg": [
+            "bread",
+            "egg"
+        ]
+    }
+}
